@@ -7,7 +7,8 @@ authors:
     - taylor-harper
     - Mary Tran
     - Shushanik Stepanyan
-    - minor updates by James Green
+adapted by:
+    - James Green
 contributors: 
     - Whitney Arnold
     - Allison R. Benedetti 
@@ -55,7 +56,13 @@ tags:
 - citation style
 ---
 
+<h1>Zotero v. Endnote</h1>
+
+<p class="intro">UL generally recommends Endnote as a reference manager and way to make a properly formatted bibliography. Zotero works in much the same way as Endnote, but as Free and Open Source software, you can continue using it after you stop being a student. If you are already familiar with Endnote, you are welcome to keep using Endnote, and here is the <a href = "https://libguides.ul.ie/referencing-endnote">UL library Endnote Guide</a></p>
+
 <p class="intro">With Zotero, you'll never have to stress again about making a properly-formatted bibliography! Zotero makes collecting, organizing, and analyzing your research sources easy. This tutorial will help you navigate the application and offer some neat tips and tricks for utilizing Zotero!</p>
+
+<p class="intro">This guide is adapted from a CC-BY-NC-SA guide published by UCLA</p>
 
 <!-- Maybe here in the "diagram" space we can put 3 cool things you can do with Zotero with just text and images? -->
 <!--
