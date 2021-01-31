@@ -1,12 +1,13 @@
 ---
-title:  "Get Started with Zotero"
-date:   2017-01-15
+title:  "Get Started with Zotero (UL Version)"
+date:   2021-01-31
 authors: 
     - caitlin-meyer
     - shannon-roux
     - taylor-harper
     - Mary Tran
     - Shushanik Stepanyan
+    - minor updates by James Green
 contributors: 
     - Whitney Arnold
     - Allison R. Benedetti 
@@ -45,10 +46,6 @@ learning-outcomes:
 # ACRL FRAMES
 acrl-frames:
     - Searching as Strategic Exploration
-# UCLA Library Core Competencies
-core-competencies:
-    - Gather and organize information and data
-    - Use information and data ethically 
 tags:
 - zotero
 - citation management software 
