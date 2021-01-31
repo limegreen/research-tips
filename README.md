@@ -1,3 +1,8 @@
+This is a fork of UCLA's WI+RE site, initially just to provide an adapted Zotero tutorial for University of Limerick students
+Very few files are actually changed form the original.
+
+This code now produces the public webpage: https://limegreen.github.io/research-tips/
+____
 # Hello!
 
 Welcome to the code repository for the WI+RE (Writing Instruction + Research Education) website!
